@@ -1,0 +1,1 @@
+Calculate the subtotal by the sum of value for each row. I.e. get the following table. Do it in two ways.
